@@ -16,5 +16,8 @@ texte dans la section 1
 
 texte dans la section 2
 
+### Section 2.1
+sous section ajout
+
 ### Copyright
 Copyright Nfn 21-09-2022 modif encore
